@@ -14,7 +14,7 @@
             "ID": "Roar",
             "NAME": "Roar Network",
             "TOKEN": "RAW",
-            "RPC": "https://dev.roarsubnet.com:9051/ext/bc/2tnK3keE6JvrdM89QytuDDMQEbm1gBugX54sC4g41itTSeAHvD/rpc",
+            "RPC": "https://dev.roarsubnet.com:9051/ext/bc/SFs17r7FpfBNywt8UkLdh1WsutzuBTWmh4Uo6t7CVqXiGSffa/rpc",
             "CHAINID": 4500,
             "EXPLORER": "https://scan.roarsubnet.com",
             "IMAGE": "/Roar.png",
